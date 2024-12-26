@@ -5,7 +5,7 @@
       "src": "app.py",
       "use": "@vercel/python",
       "config": {
-        "python": "3.8"
+        "runtime": "python3.8"
       }
     }
   ],
